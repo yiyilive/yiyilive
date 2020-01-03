@@ -1,6 +1,6 @@
 # yiyilive
 
-A new Flutter application.
+yiyilive Flutter client app.
 
 ## Getting Started
 
